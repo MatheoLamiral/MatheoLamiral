@@ -25,12 +25,7 @@
 </div>
 
 <!--repositories start-->
-<div>
-  <h3>Proyecto Uno</h3>
-  <img src="https://raw.githubusercontent.com/MatheoLamiral/Python-seminario-de-lenguajes-UNLP/main/preview.png" alt="Vista Previa de Proyecto Uno">
-  <p>Descripción breve del Proyecto Uno.</p>
-  <a href="https://github.com/MatheoLamiral/Python-seminario-de-lenguajes-UNLP">Ver Repositorio</a>
-</div>
+
 <!--repositories end-->
 
 <!--Intro start-->
