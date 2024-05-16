@@ -30,7 +30,7 @@
 </div>
 <h2 align="center">Repositorios</h2>
 <div align="center">
-    <a href="https://github.com/MatheoLamiral/Python-seminario-de-lenguajes-UNLP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheoLamiral&repo=Python-seminario-de-lenguajes-UNLP&theme=dark&border_color=474554&icon_color=F8D866&show_icons=false&width=700px"></a>
+    <a href="https://github.com/MatheoLamiral/Python-seminario-de-lenguajes-UNLP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheoLamiral&repo=Python-seminario-de-lenguajes-UNLP&theme=dark&border_color=474554&icon_color=F8D866&show_icons=false&width=1500px"></a>
     <a href="https://github.com/MatheoLamiral/Analista-Programador-Universitario-UNLP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheoLamiral&repo=Analista-Programador-Universitario-UNLP&theme=dark&icon_color=F8D866&show_icons=false&border_color=474554"></a>
 </div>
 <!--repositories end-->
