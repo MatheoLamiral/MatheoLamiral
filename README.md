@@ -25,6 +25,9 @@
 </div>
 
 <!--repositories start-->
+<div style="width: 500px; height: 300px; border: 1px solid black;">
+  <!-- Aquí colocarías tu contenido de repositorios -->
+</div>
 <h2 align="center">Repositorios</h2>
 <div align="center">
     <a href="https://github.com/MatheoLamiral/Python-seminario-de-lenguajes-UNLP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheoLamiral&repo=Python-seminario-de-lenguajes-UNLP&theme=dark&border_color=474554&icon_color=F8D866&show_icons=false"></a>
