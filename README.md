@@ -10,19 +10,19 @@
 </div>
 
 
-<!--- snake -->
+<!--- snake 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> snake end-->
 
 
-<!--h2 without bottom border-->
+<!--h2 without bottom border
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
-</div>
+</div> end-->
 
 <!--repositories start-->
 <div style="width: 500px; height: 300px; border: 1px solid black;">
