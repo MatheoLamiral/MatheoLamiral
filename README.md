@@ -6,8 +6,8 @@
 <!--REPOSITORIES-->
 <h2 align="center" style="color: #007bff;">Repositories</h2>
 <div align="center">
-    <a href="https://github.com/MatheoLamiral/APU-UNLP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheoLamiral&repo=APU-UNLP&theme=great-gatsby&icon_color=F8D866"></a>
-    <a href="https://github.com/MatheoLamiral/Python-UNLP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheoLamiral&repo=Python-UNLP&theme=great-gatsby&icon_color=F8D866"></a>
+    <a href="https://github.com/MatheoLamiral/APU-UNLP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheoLamiral&repo=APU-UNLP&theme=tokyonight&icon_color=F8D866"></a>
+    <a href="https://github.com/MatheoLamiral/Python-UNLP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheoLamiral&repo=Python-UNLP&theme=tokyonight&icon_color=F8D866"></a>
 </div>
 
 <!--TECHNOLOGIES-->
@@ -32,8 +32,8 @@
 
 <!--GITHUB STATISTICS-->
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheoLamiral&show_icons=true&theme=great-gatsby&border_color=474554" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheoLamiral&layout=compact&theme=great-gatsby&border_color=474554" height="150"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheoLamiral&show_icons=true&theme=tokyonight&border_color=474554" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheoLamiral&layout=compact&theme=tokyonight&border_color=474554" height="150"/>
 </p>
 
 <!--CONTACT ME-->
