@@ -29,8 +29,8 @@ If you have any questions or opportunities to connect, feel free to reach out. I
 
 <!--GITHUB STATISTICS-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheoLamiral&show_icons=true&theme=dark&border_color=474554" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheoLamiral&layout=compact&theme=dark&border_color=474554" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheoLamiral&show_icons=true&theme=dark&border_color=474554" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheoLamiral&layout=compact&theme=dark&border_color=474554" height="150"/>
 </p>
 
 
