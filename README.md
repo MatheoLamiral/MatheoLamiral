@@ -2,8 +2,8 @@
 <div align="center" style="color: #007bff;">
   <h1>Hi 👋, I'm Matheo</h1>
   <p align="center">
-  I’m currently in my third year of the <strong>Bachelor’s Degree in Information Systems</strong> and completing my final semester of the <strong>University Programmer Analyst (APU)</strong> program at <strong>Universidad Nacional de La Plata</strong>, Argentina.
-I also collaborate as a <strong>teaching assistant</strong> in the course <strong> Object Oriented Programming I</strong>.
+  I’m a <strong>Forward Deployed Engineer</strong> at <strong>Machines Like Me</strong> and a graduate <strong>University Programmer Analyst (APU)</strong> from <strong>Universidad Nacional de La Plata</strong>, Argentina, where I am currently finishing my <strong>Bachelor’s Degree in Information Systems</strong>. 
+    I also serve as a <strong>teaching assistant</strong> for <strong>Object Oriented Programming I & II</strong>.
 I enjoy building software that combines good design, clean code, and meaningful impact. I’m passionate about learning new technologies, improving my skills, working in teams, and building strong interpersonal relationships.
 If you have any questions or opportunities to connect, feel free to reach out. I’m always open to learning and sharing knowledge!
 </p>
