@@ -28,10 +28,13 @@ If you have any questions or opportunities to connect, feel free to reach out. I
 </p>
 
 <!--GITHUB STATISTICS-->
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheoLamiral&show_icons=true&theme=dark&border_color=474554" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheoLamiral&layout=compact&theme=dark&border_color=474554" height="150"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-gray-one-27.vercel.app/api?username=MatheoLamiral&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=007bff&text_color=c9d1d9&icon_color=007bff&border_color=474554&border_radius=10" height="165" />
+  <img src="https://streak-stats.demolab.com?user=MatheoLamiral&background=0d1117&border=474554&stroke=474554&ring=007bff&fire=007bff&currStreakLabel=007bff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=10" height="165" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-gray-one-27.vercel.app/api/top-langs/?username=MatheoLamiral&layout=compact&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=007bff&text_color=c9d1d9&border_color=474554&border_radius=10" height="165" />
+</div>
 
 
 <!--CONTACT ME-->
